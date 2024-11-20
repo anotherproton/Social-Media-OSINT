@@ -194,6 +194,7 @@
   <li><a href="https://osintcombine.com/instagram-explorer">Osint Combinne</a></li>Find images by date on Instagram at particular locations easier and more efficient.
   <li><a href="https://picnob.com/">Picnob</a></li>Enables you to browse Instagram profiles without the need of an account.
   <li><a href="https://picuki.com/"> Picuki</a></li>Instgram Editor & Viewer.
+  <li><a href="https://fastvideosave.com/instagram-photo-downloader">Fast Video Save</a></li>Need to download Instagram photos in HD? Check out FastVideoSave.com for a fast and reliable solution!
   <li><a href="https://www.storysaver.net/">Story Saver</a></li>Download Instagram stories, highlights and videos.
   <li><a href="https://github.com/megadose/toutatis">Toutatis</a></li>Extract information from instagrams accounts such as e-mails & phone numbers.
   <li><a href="https://github.com/amanverasia/Unseen?utm_source=substack&utm_medium=email">Unseen</a></li>To perform OSINT on an instagram profile.
